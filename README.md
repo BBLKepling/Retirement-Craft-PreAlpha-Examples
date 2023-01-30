@@ -20,13 +20,13 @@ There will be 9 primary skills, the basic 8 from Reskillable plus Linguistics, t
 
 **************
 
-7 Attack Specializations:
+8 Attack Specializations:
 
 Main Mods:Spartan Weaponry
 
 Inspiration:Might and Magic, Elder Scrolls
 
-Axe, Blunt, Long Blade, Polearm, Shoot, Short Blade, Throw
+Axe, Blunt, Long Blade, Martial Arts, Polearm, Shoot, Short Blade, Throw
 
 **************
 
