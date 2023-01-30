@@ -32,11 +32,11 @@ Axe, Blunt, Long Blade, Polearm, Shoot, Short Blade, Throw
 
 5 Defense Specializations:
 
-Main Mods:LevelHearts, Spartan Shields, any adding armor
+Main Mods:LevelHearts or Scaling Health, Spartan Shields, any adding armor
 
 Inspiration:Might and Magic, Elder Scrolls
 
-Light Armor, Medium Armor, Heavy Armor, Block, Body Bulding
+Light Armor, Medium Armor, Heavy Armor, Block, Body Building
 
 **************
 
