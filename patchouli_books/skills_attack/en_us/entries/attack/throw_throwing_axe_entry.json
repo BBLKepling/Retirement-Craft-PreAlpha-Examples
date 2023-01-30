@@ -1,0 +1,19 @@
+{
+  "name": "Throwing Axes",
+  "icon": "spartanweaponry:throwing_axe_iron",
+  "category": "patchouli:throw_category",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "spartanweaponry:throwing_axe_iron",
+      "title": "Iron Throwing Axe",
+      "text": "."
+    },
+    {
+      "type": "spotlight",
+      "item": "spartanweaponry:throwing_axe_gold",
+      "title": "Gold Throwing Axe",
+      "text": "."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Golden Sword Forging",
+  "icon": "minecraft:golden_sword",
+  "category": "patchouli:test_category",
+  "pages": [
+    {
+      "type": "artisanintegrations:worktable",
+      "recipe": "blacksmith:forgegoldswordbase",
+      "text_left": "This book may be used in place of the pattern, which will also allow you to copy this recipe to a pattern.",
+      "text_right": ""
+    },
+    {
+      "type": "text",
+      "text": ""
+    },
+    {
+      "type": "text",
+      "text": "Heat"
+    },
+    {
+      "type": "text",
+      "text": "Hammer"
+    },
+    {
+      "type": "text",
+      "text": "Quench"
+    },
+    {
+      "type": "text",
+      "text": ""
+    },
+    {
+      "type": "artisanintegrations:worktable",
+      "recipe": "blacksmith:forgegoldsword",
+      "text_left": "This book may be used in place of the pattern, which will also allow you to copy this recipe to a pattern.",
+      "text_right": ""
+    },
+    {
+      "type": "text",
+      "text": ""
+    }
+  ]
+}

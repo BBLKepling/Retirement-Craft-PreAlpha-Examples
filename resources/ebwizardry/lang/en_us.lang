@@ -1,0 +1,229 @@
+spelltype.attack=School of Invocation
+spelltype.defence=School of Abjuration
+spelltype.utility=School of Divination
+spelltype.minion=School of Conjuration
+spelltype.buff=School of Illusion
+spelltype.construct=School of Enchantment
+spelltype.projectile=School of Necromancy
+spelltype.alteration=School of Alteration
+
+element.ice.wizard=Hydromancer
+element.lightning.wizard=Aeromancer
+element.earth.wizard=Geomancer
+element.healing.wizard=Cleric
+
+element.fire=Fire Element
+element.ice=Water Element
+element.lightning=Air Element
+element.necromancy=Dark Element
+element.earth=Earth Element
+element.sorcery=Non-Elemental
+element.healing=Light Element
+
+
+item.ebwizardry:wand.generic=grimore
+
+item.ebwizardry:magic_wand.name=Magic Grimore
+item.ebwizardry:apprentice_wand.name=Apprentice Grimore
+item.ebwizardry:advanced_wand.name=Advanced Grimore
+item.ebwizardry:master_wand.name=Master Grimore
+
+item.ebwizardry:novice_fire_wand.name=Pyromancer Grimore
+item.ebwizardry:novice_ice_wand.name=Hydromancer Grimore
+item.ebwizardry:novice_lightning_wand.name=Aeromancer Grimore
+item.ebwizardry:novice_necromancy_wand.name=Necromancer Grimore
+item.ebwizardry:novice_earth_wand.name=Geomancer Grimore
+item.ebwizardry:novice_sorcery_wand.name=Sorcerer Grimore
+item.ebwizardry:novice_healing_wand.name=Cleric Grimore
+
+item.ebwizardry:apprentice_fire_wand.name=Apprentice Pyromancer Grimore
+item.ebwizardry:apprentice_ice_wand.name=Apprentice Hydromancer Grimore
+item.ebwizardry:apprentice_lightning_wand.name=Apprentice Aeromancer Grimore
+item.ebwizardry:apprentice_necromancy_wand.name=Apprentice Necromancer Grimore
+item.ebwizardry:apprentice_earth_wand.name=Apprentice Geomancer Grimore
+item.ebwizardry:apprentice_sorcery_wand.name=Apprentice Sorcerer Grimore
+item.ebwizardry:apprentice_healing_wand.name=Apprentice Cleric Grimore
+
+item.ebwizardry:advanced_fire_wand.name=Grimore of the Pyromancer
+item.ebwizardry:advanced_ice_wand.name=Grimore of the Hydromancer
+item.ebwizardry:advanced_lightning_wand.name=Grimore of the Aeromancer
+item.ebwizardry:advanced_necromancy_wand.name=Grimore of the Necromancer
+item.ebwizardry:advanced_earth_wand.name=Grimore of the Geomancer
+item.ebwizardry:advanced_sorcery_wand.name=Grimore of the Sorcerer
+item.ebwizardry:advanced_healing_wand.name=Grimore of the Cleric
+
+item.ebwizardry:master_fire_wand.name=Master Pyromancer Grimore
+item.ebwizardry:master_ice_wand.name=Master Hydromancer Grimore
+item.ebwizardry:master_lightning_wand.name=Master Aeromancer Grimore
+item.ebwizardry:master_necromancy_wand.name=Master Necromancer Grimore
+item.ebwizardry:master_earth_wand.name=Master Geomancer Grimore
+item.ebwizardry:master_sorcery_wand.name=Master Sorcerer Grimore
+item.ebwizardry:master_healing_wand.name=Master Cleric Grimore
+
+item.ebwizardry:wizard_hat_ice.name=Hydromancer Mage Hat
+item.ebwizardry:wizard_robe_ice.name=Hydromancer Mage Robes
+item.ebwizardry:wizard_leggings_ice.name=Hydromancer Mage Leggings
+item.ebwizardry:wizard_boots_ice.name=Hydromancer Mage Boots
+
+item.ebwizardry:wizard_hat_lightning.name=Aeromancer Mage Hat
+item.ebwizardry:wizard_robe_lightning.name=Aeromancer Mage Robes
+item.ebwizardry:wizard_leggings_lightning.name=Aeromancer Mage Leggings
+item.ebwizardry:wizard_boots_lightning.name=Aeromancer Mage Boots
+
+item.ebwizardry:wizard_hat_earth.name=Geomancer Mage Hat
+item.ebwizardry:wizard_robe_earth.name=Geomancer Mage Robes
+item.ebwizardry:wizard_leggings_earth.name=Geomancer Mage Leggings
+item.ebwizardry:wizard_boots_earth.name=Geomancer Mage Boots
+
+item.ebwizardry:wizard_hat_healing.name=Cleric Hat
+item.ebwizardry:wizard_robe_healing.name=Cleric Robes
+item.ebwizardry:wizard_leggings_healing.name=Cleric Leggings
+item.ebwizardry:wizard_boots_healing.name=Cleric Boots
+
+item.ebwizardry:sage_hat_ice.name=Hydromancer Sage Hat
+item.ebwizardry:sage_robe_ice.name=Hydromancer Sage Robes
+item.ebwizardry:sage_leggings_ice.name=Hydromancer Sage Leggings
+item.ebwizardry:sage_boots_ice.name=Hydromancer Sage Boots
+
+item.ebwizardry:sage_hat_lightning.name=Aeromancer Sage Hat
+item.ebwizardry:sage_robe_lightning.name=Aeromancer Sage Robes
+item.ebwizardry:sage_leggings_lightning.name=Aeromancer Sage Leggings
+item.ebwizardry:sage_boots_lightning.name=Aeromancer Sage Boots
+
+item.ebwizardry:sage_hat_earth.name=Geomancer Sage Hat
+item.ebwizardry:sage_robe_earth.name=Geomancer Sage Robes
+item.ebwizardry:sage_leggings_earth.name=Geomancer Sage Leggings
+item.ebwizardry:sage_boots_earth.name=Geomancer Sage Boots
+
+item.ebwizardry:sage_hat_healing.name=Cleric Sage Hat
+item.ebwizardry:sage_robe_healing.name=Cleric Sage Robes
+item.ebwizardry:sage_leggings_healing.name=Cleric Sage Leggings
+item.ebwizardry:sage_boots_healing.name=Cleric Sage Boots
+
+item.ebwizardry:battlemage_helmet_ice.name=Hydromancer Battlemage Helmet
+item.ebwizardry:battlemage_chestplate_ice.name=Hydromancer Battlemage Chestplate
+item.ebwizardry:battlemage_leggings_ice.name=Hydromancer Battlemage Leggings
+item.ebwizardry:battlemage_boots_ice.name=Hydromancer Battlemage Boots
+
+item.ebwizardry:battlemage_helmet_lightning.name=Aeromancer Battlemage Helmet
+item.ebwizardry:battlemage_chestplate_lightning.name=Aeromancer Battlemage Chestplate
+item.ebwizardry:battlemage_leggings_lightning.name=Aeromancer Battlemage Leggings
+item.ebwizardry:battlemage_boots_lightning.name=Aeromancer Battlemage Boots
+
+item.ebwizardry:battlemage_helmet_earth.name=Geomancer Battlemage Helmet
+item.ebwizardry:battlemage_chestplate_earth.name=Geomancer Battlemage Chestplate
+item.ebwizardry:battlemage_leggings_earth.name=Geomancer Battlemage Leggings
+item.ebwizardry:battlemage_boots_earth.name=Geomancer Battlemage Boots
+
+item.ebwizardry:battlemage_helmet_healing.name=Cleric Battlemage Helmet
+item.ebwizardry:battlemage_chestplate_healing.name=Cleric Battlemage Chestplate
+item.ebwizardry:battlemage_leggings_healing.name=Cleric Battlemage Leggings
+item.ebwizardry:battlemage_boots_healing.name=Cleric Battlemage Boots
+
+item.ebwizardry:warlock_hood_ice.name=Hydromancer Warlock Hood
+item.ebwizardry:warlock_robe_ice.name=Hydromancer Warlock Robes
+item.ebwizardry:warlock_leggings_ice.name=Hydromancer Warlock Leggings
+item.ebwizardry:warlock_boots_ice.name=Hydromancer Warlock Boots
+
+item.ebwizardry:warlock_hood_lightning.name=Aeromancer Warlock Hood
+item.ebwizardry:warlock_robe_lightning.name=Aeromancer Warlock Robes
+item.ebwizardry:warlock_leggings_lightning.name=Aeromancer Warlock Leggings
+item.ebwizardry:warlock_boots_lightning.name=Aeromancer Warlock Boots
+
+item.ebwizardry:warlock_hood_earth.name=Geomancer Warlock Hood
+item.ebwizardry:warlock_robe_earth.name=Geomancer Warlock Robes
+item.ebwizardry:warlock_leggings_earth.name=Geomancer Warlock Leggings
+item.ebwizardry:warlock_boots_earth.name=Geomancer Warlock Boots
+
+item.ebwizardry:warlock_hood_healing.name=Cleric Warlock Hood
+item.ebwizardry:warlock_robe_healing.name=Cleric Warlock Robes
+item.ebwizardry:warlock_leggings_healing.name=Cleric Warlock Leggings
+item.ebwizardry:warlock_boots_healing.name=Cleric Warlock Boots
+
+
+item.ebwizardry:ring_condensing.desc=Slowly regenerates mana for all grimores on your hotbar
+item.ebwizardry:ring_battlemage.desc=Holding a grimore in your offhand and a sword in your main hand grants 10%% extra magic damage
+item.ebwizardry:ring_fire_melee.desc=Hitting a creature with a fire grimore sets it on fire
+item.ebwizardry:ring_ice_melee.desc=Hitting a creature with an ice grimore gives it the frostbite effect
+item.ebwizardry:ring_ice_biome.desc=Water spells are 30%% more potent in snowy biomes
+item.ebwizardry:ring_arcane_frost.desc=Creatures killed by water spells release ice shards in all directions
+item.ebwizardry:ring_lightning_melee.desc=Hitting a creature with a air grimore shoots lightning at another nearby creature
+item.ebwizardry:ring_storm.desc=During thunderstorms, air spells have dramatically reduced cooldowns
+item.ebwizardry:ring_soulbinding.desc=Creatures damaged by unholy spells become soulbound to you for 20 seconds
+item.ebwizardry:ring_leeching.desc=All unholy attacks have a 30%% chance to trigger a life drain effect
+item.ebwizardry:ring_necromancy_melee.desc=Hitting a creature with a unholy grimore gives it the wither effect
+item.ebwizardry:ring_extraction.desc=Kills with non-elemental spells grant bonus mana
+item.ebwizardry:ring_mana_return.desc=Force arrows that miss their target return the mana they used to your grimore
+
+item.ebwizardry:amulet_ice_protection.desc=Reduces water damage by 30%%
+item.ebwizardry:amulet_channeling.desc=Grants a 30%% chance to negate incoming air damage
+item.ebwizardry:amulet_auto_shield.desc=Grants a 25%% chance to trigger the shield spell for a few seconds when bound to a grimore on your hotbar
+
+
+item.banner.wizardry_ice.black=Black Water Emblem
+item.banner.wizardry_ice.red=Red Water Emblem
+item.banner.wizardry_ice.green=Green Water Emblem
+item.banner.wizardry_ice.brown=Brown Water Emblem
+item.banner.wizardry_ice.blue=Blue Water Emblem
+item.banner.wizardry_ice.purple=Purple Water Emblem
+item.banner.wizardry_ice.cyan=Cyan Water Emblem
+item.banner.wizardry_ice.silver=Light Gray Water Emblem
+item.banner.wizardry_ice.gray=Gray Water Emblem
+item.banner.wizardry_ice.pink=Pink Water Emblem
+item.banner.wizardry_ice.lime=Lime Water Emblem
+item.banner.wizardry_ice.yellow=Yellow Water Emblem
+item.banner.wizardry_ice.lightBlue=Light Blue Water Emblem
+item.banner.wizardry_ice.magenta=Magenta Water Emblem
+item.banner.wizardry_ice.orange=Orange Water Emblem
+item.banner.wizardry_ice.white=White Water Emblem
+
+item.banner.wizardry_lightning.black=Black Air Emblem
+item.banner.wizardry_lightning.red=Red Air Emblem
+item.banner.wizardry_lightning.green=Green Air Emblem
+item.banner.wizardry_lightning.brown=Brown Air Emblem
+item.banner.wizardry_lightning.blue=Blue Air Emblem
+item.banner.wizardry_lightning.purple=Purple Air Emblem
+item.banner.wizardry_lightning.cyan=Cyan Air Emblem
+item.banner.wizardry_lightning.silver=Light Gray Air Emblem
+item.banner.wizardry_lightning.gray=Gray Air Emblem
+item.banner.wizardry_lightning.pink=Pink Air Emblem
+item.banner.wizardry_lightning.lime=Lime Air Emblem
+item.banner.wizardry_lightning.yellow=Yellow Air Emblem
+item.banner.wizardry_lightning.lightBlue=Light Blue Air Emblem
+item.banner.wizardry_lightning.magenta=Magenta Air Emblem
+item.banner.wizardry_lightning.orange=Orange Air Emblem
+item.banner.wizardry_lightning.white=White Air Emblem
+
+item.banner.wizardry_necromancy.black=Black Dark Emblem
+item.banner.wizardry_necromancy.red=Red Dark Emblem
+item.banner.wizardry_necromancy.green=Green Dark Emblem
+item.banner.wizardry_necromancy.brown=Brown Dark Emblem
+item.banner.wizardry_necromancy.blue=Blue Dark Emblem
+item.banner.wizardry_necromancy.purple=Purple Dark Emblem
+item.banner.wizardry_necromancy.cyan=Cyan Dark Emblem
+item.banner.wizardry_necromancy.silver=Light Gray Dark Emblem
+item.banner.wizardry_necromancy.gray=Gray Dark Emblem
+item.banner.wizardry_necromancy.pink=Pink Dark Emblem
+item.banner.wizardry_necromancy.lime=Lime Dark Emblem
+item.banner.wizardry_necromancy.yellow=Yellow Dark Emblem
+item.banner.wizardry_necromancy.lightBlue=Light Blue Dark Emblem
+item.banner.wizardry_necromancy.magenta=Magenta Dark Emblem
+item.banner.wizardry_necromancy.orange=Orange Dark Emblem
+item.banner.wizardry_necromancy.white=White Dark Emblem
+
+item.banner.wizardry_healing.black=Black Light Emblem
+item.banner.wizardry_healing.red=Red Light Emblem
+item.banner.wizardry_healing.green=Green Light Emblem
+item.banner.wizardry_healing.brown=Brown Light Emblem
+item.banner.wizardry_healing.blue=Blue Light Emblem
+item.banner.wizardry_healing.purple=Purple Light Emblem
+item.banner.wizardry_healing.cyan=Cyan Light Emblem
+item.banner.wizardry_healing.silver=Light Gray Light Emblem
+item.banner.wizardry_healing.gray=Gray Light Emblem
+item.banner.wizardry_healing.pink=Pink Light Emblem
+item.banner.wizardry_healing.lime=Lime Light Emblem
+item.banner.wizardry_healing.yellow=Yellow Light Emblem
+item.banner.wizardry_healing.lightBlue=Light Blue Light Emblem
+item.banner.wizardry_healing.magenta=Magenta Light Emblem
+item.banner.wizardry_healing.orange=Orange Light Emblem
+item.banner.wizardry_healing.white=White Light Emblem

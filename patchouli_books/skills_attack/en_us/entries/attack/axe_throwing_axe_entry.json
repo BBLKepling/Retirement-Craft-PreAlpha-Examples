@@ -1,0 +1,19 @@
+{
+  "name": "Throwing Axes",
+  "icon": "spartanweaponry:throwing_axe_iron",
+  "category": "patchouli:axe_category",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "spartanweaponry:throwing_axe_iron",
+      "title": "Throwing Axe",
+      "text": "Throwing Axes"
+    },
+    {
+      "type": "spotlight",
+      "item": "spartanweaponry:throwing_axe_gold",
+      "title": "Halberd",
+      "text": "Halberds"
+    }
+  ]
+}

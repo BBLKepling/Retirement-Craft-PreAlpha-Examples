@@ -1,0 +1,19 @@
+{
+  "name": "Battleaxes",
+  "icon": "spartanweaponry:battleaxe_iron",
+  "category": "patchouli:axe_category",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "spartanweaponry:battleaxe_iron",
+      "title": "Battleaxe",
+      "text": "Battleaxes"
+    },
+    {
+      "type": "spotlight",
+      "item": "spartanweaponry:battleaxe_gold",
+      "title": "Throwing Axe",
+      "text": "Throwing Axes"
+    }
+  ]
+}

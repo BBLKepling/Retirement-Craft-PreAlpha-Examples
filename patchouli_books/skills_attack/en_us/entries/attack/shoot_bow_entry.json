@@ -1,0 +1,13 @@
+{
+  "name": "Bows",
+  "icon": "minecraft:bow",
+  "category": "patchouli:shoot_category",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "minecraft:bow",
+      "title": "Bow",
+      "text": "."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Daggers",
+  "icon": "spartanweaponry:dagger_iron",
+  "category": "patchouli:shortblade_category",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "spartanweaponry:dagger_iron",
+      "title": "Iron Dagger",
+      "text": "."
+    },
+    {
+      "type": "spotlight",
+      "item": "spartanweaponry:dagger_gold",
+      "title": "Golden Dagger",
+      "text": "."
+    }
+  ]
+}

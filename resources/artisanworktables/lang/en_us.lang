@@ -1,0 +1,20 @@
+# Worktables
+tile.artisanworktables.worktable.basic.name=Brewer's Worktable
+tile.artisanworktables.worktable.chemist.name=Alchemist's Worktable
+tile.artisanworktables.worktable.farmer.name=Glassmith's Worktable
+tile.artisanworktables.worktable.jeweler.name=Goldsmith's Worktable
+tile.artisanworktables.worktable.mage.name=Mage's Worktable
+
+# Workstations
+tile.artisanworktables.workstation.basic.name=Brewer's Workstation
+tile.artisanworktables.workstation.chemist.name=Alchemist's Workstation
+tile.artisanworktables.workstation.farmer.name=Glassmith's Workstation
+tile.artisanworktables.workstation.jeweler.name=Goldsmith's Workstation
+tile.artisanworktables.workstation.mage.name=Mage's Workstation
+
+# Workshops
+tile.artisanworktables.workshop.basic.name=Brewer's Workshop
+tile.artisanworktables.workshop.chemist.name=Alchemist's Workshop
+tile.artisanworktables.workshop.farmer.name=Glassmith's Workshop
+tile.artisanworktables.workshop.jeweler.name=Goldsmith's Workshop
+tile.artisanworktables.workshop.mage.name=Mage's Workshop

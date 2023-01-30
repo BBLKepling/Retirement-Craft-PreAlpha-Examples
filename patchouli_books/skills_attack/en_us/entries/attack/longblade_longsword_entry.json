@@ -1,0 +1,19 @@
+{
+  "name": "Long Swords",
+  "icon": "spartanweaponry:longsword_iron",
+  "category": "patchouli:longblade_category",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "spartanweaponry:longsword_iron",
+      "title": "Iron Long Sword",
+      "text": "."
+    },
+    {
+      "type": "spotlight",
+      "item": "spartanweaponry:longsword_gold",
+      "title": "Golden Long Sword",
+      "text": "."
+    }
+  ]
+}

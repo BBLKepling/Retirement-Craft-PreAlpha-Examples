@@ -1,0 +1,19 @@
+{
+  "name": "Spears",
+  "icon": "spartanweaponry:spear_iron",
+  "category": "patchouli:polearm_category",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "spartanweaponry:spear_iron",
+      "title": "Iron Spear",
+      "text": "."
+    },
+    {
+      "type": "spotlight",
+      "item": "spartanweaponry:spear_gold",
+      "title": "Golden Spear",
+      "text": "."
+    }
+  ]
+}

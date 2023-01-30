@@ -1,0 +1,19 @@
+{
+  "name": "Axes",
+  "icon": "minecraft:iron_axe",
+  "category": "patchouli:axe_category",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "minecraft:iron_axe",
+      "title": "Iron Axe",
+      "text": "."
+    },
+    {
+      "type": "spotlight",
+      "item": "minecraft:golden_axe",
+      "title": "Golden Axe",
+      "text": "."
+    }
+  ]
+}

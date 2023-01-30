@@ -1,0 +1,19 @@
+{
+  "name": "Maces",
+  "icon": "spartanweaponry:mace_iron",
+  "category": "patchouli:blunt_category",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "spartanweaponry:mace_iron",
+      "title": "Iron Axe",
+      "text": "."
+    },
+    {
+      "type": "spotlight",
+      "item": "spartanweaponry:mace_gold",
+      "title": "Golden Axe",
+      "text": "."
+    }
+  ]
+}
