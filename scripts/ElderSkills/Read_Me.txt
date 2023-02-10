@@ -8,3 +8,10 @@ Crafttweaker
 Electroblob's Wizardry
 Reskillable
 WizardryUtils
+
+This can be spammy, So:
+To disable Toasts:
+Toast Control + Placebo
+
+To disable Chat Messages:
+ChatFlow with the Regex ^Successfully leveled up Skill:.+
